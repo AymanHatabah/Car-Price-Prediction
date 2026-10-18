@@ -367,11 +367,11 @@ st.markdown("<br>", unsafe_allow_html=True)
 # ==========================================
 @st.cache_resource
 def load_model():
- current_dir = Path.cwd()
- model_path = current_dir / "models" / "car_price_model.pkl"
- if model_path.exists():
-  return joblib.load(model_path)
- return None
+    current_dir = Path(__file__).parent 
+    model_path = current_dir / "models" / "car_price_model.pkl"
+    if model_path.exists():
+        return joblib.load(model_path)
+    return None
 
 
 model = load_model()
