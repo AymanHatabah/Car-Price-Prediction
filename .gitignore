@@ -1,0 +1,8 @@
+kaggle.json
+__pycache__/
+.ipynb_checkpoints/
+node_modules/
+*.zip
+cloudflared-linux-amd64
+package.json
+package-lock.json

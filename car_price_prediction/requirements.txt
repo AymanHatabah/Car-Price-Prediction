@@ -1,0 +1,6 @@
+streamlit==1.66.0
+pandas==2.2.3
+pydantic==2.13.5
+joblib==1.6.0
+scikit-learn==1.6.1
+numpy==2.1.3
