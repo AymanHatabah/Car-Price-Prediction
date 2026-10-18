@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 import streamlit as st
 from utils import validate_car_data
-
+import custom_transformer
 # ==========================================
 # 1. Car Brands and Models Mapping
 # ==========================================
