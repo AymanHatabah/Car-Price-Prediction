@@ -57,10 +57,6 @@ Car-Price-Prediction/
 - **Machine Learning & Data Pipelines**: Scikit-Learn, Pandas, NumPy, Joblib, Pydantic
 - **Deployment Platform**: Streamlit Community Cloud
 
----
-
 
 <!-- end list -->
 
-``` 
- 
