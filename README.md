@@ -59,48 +59,8 @@ Car-Price-Prediction/
 
 ---
 
-## 🚀 Local Setup & Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone [https://github.com/your-username/Car-Price-Prediction.git](https://github.com/your-username/Car-Price-Prediction.git)
-   cd Car-Price-Prediction
-
-````
-
-2.  **Create and Activate a Virtual Environment**:
-    
-      - **Linux/macOS**:
-        ``` bash
-        python3 -m venv venv
-        source venv/bin/activate
-        
-        ```
-      - **Windows**:
-        ``` bash
-        python -m venv venv
-        venv\Scripts\activate
-        
-        ```
-
-3.  **Install Dependencies**:
-    
-    ``` bash
-    pip install -r requirements.txt
-    
-    ```
-
-4.  **Launch the Application**:
-    
-    ``` bash
-    streamlit run car_app.py
-    
-    ```
-
 
 <!-- end list -->
 
 ``` 
  
-```
-
